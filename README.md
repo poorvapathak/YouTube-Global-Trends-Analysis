@@ -63,8 +63,8 @@ pip install pandas matplotlib seaborn numpy
 Setup
 bash# Clone the repository
 ```
-git clone https://github.com/yourusername/youtube-trends-analysis.git
-cd youtube-trends-analysis
+git clone https://github.com/poorvapathak/YouTube-Global-Trends-Analysis.git
+cd YouTube-Global-Trends-Analysis
 ```
 
 # Run the Jupyter notebook
@@ -164,9 +164,13 @@ Tag Analysis
 Most Common Tags:
 
 [none] - 34,031 occurrences
+
 "funny" - 11,604
+
 "2018" - 9,672
+
 "comedy" - 9,380
+
 "news" - 5,261
 
 Temporal Trends
