@@ -1,8 +1,8 @@
-YouTube Global Trends Analysis 📊
+# YouTube Global Trends Analysis 📊
 
 A comprehensive data analysis project examining YouTube trending videos across 10 countries to uncover patterns in views, likes, categories, and engagement metrics. This analysis combines datasets from multiple regions to understand what makes videos go viral globally.
 
-📋 Table of Contents
+## 📋 Table of Contents
 
 Overview
 Dataset
@@ -15,7 +15,7 @@ Visualizations
 Future Enhancements
 Author
 
-🎯 Overview
+## 🎯 Overview
 This project analyzes YouTube trending videos from 10 countries (CA, DE, FR, GB, IN, JP, KR, MX, RU, US) covering the period from November 2017 to June 2018. The analysis includes:
 
 Data cleaning and preprocessing of 375,942+ trending video records
@@ -27,7 +27,7 @@ Engagement metrics and virality patterns
 
 Dataset Source: Kaggle - YouTube Trending Videos
 Link: https://www.kaggle.com/datasets/datasnaek/youtube-new
-📊 Dataset
+## 📊 Dataset
 Files Structure
 
 CSV Files: Country-specific video data (e.g., USvideos.csv, CAvideos.csv)
@@ -48,7 +48,7 @@ Countries: 10
 Time Period: Late 2017 to Mid-2018
 Categories: 18 (Music, Entertainment, Comedy, Gaming, etc.)
 
-❓ Key Questions
+## ❓ Key Questions
 
 What categories receive the most views globally?
 How do engagement metrics vary across countries and categories?
@@ -57,7 +57,7 @@ Which channels dominate in total views vs. engagement rate?
 How quickly do videos trend after publishing?
 What are the most common tags used in trending videos?
 
-🛠️ Installation
+## 🛠️ Installation
 Prerequisites
 bashPython 3.8+
 pip install pandas matplotlib seaborn numpy
@@ -73,7 +73,7 @@ cd YouTube-Global-Trends-Analysis
 jupyter notebook YouTube_Global_Trends_Analysis.ipynb
 ```
 
-🔄 Analysis Workflow
+## 🔄 Analysis Workflow
 1. Data Collection & Combination
 
 Upload country-specific CSV and JSON files
@@ -121,7 +121,7 @@ Tag frequency analysis
 Correlation matrices
 Time-series trends
 
-🔍 Key Findings
+## 🔍 Key Findings
 Top Categories by Average Views
 
 Music - 6.02M avg views
@@ -191,7 +191,7 @@ Dislikes-Comments: Strong correlation (0.74) - controversial content drives disc
 
 <img width="1096" height="950" alt="image" src="https://github.com/user-attachments/assets/dd9de601-2c4c-4732-a559-2922cdf96c00" />
 
-📈 Visualizations
+## 📈 Visualizations
 The project includes multiple visualizations:
 
 Category Performance
@@ -209,7 +209,7 @@ Country-specific trends
 <img width="1004" height="492" alt="image" src="https://github.com/user-attachments/assets/2cdfe0f6-dc47-47d4-8138-b8eff114e568" />
 
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
  Machine Learning Models: Predict video virality using features like tags, lag, and category
  Interactive Dashboards: Build Plotly/Dash visualizations for dynamic exploration
@@ -219,18 +219,18 @@ Country-specific trends
  Deep Learning: Implement NLP for title/description analysis
  A/B Testing Framework: Optimize content strategies based on findings
 
-💡 Recommendations for Content Creators
+## 💡 Recommendations for Content Creators
 Based on the analysis:
 
-Category Selection: Focus on Music or Entertainment for maximum views
-Engagement Strategy: Target Howto & Style or Gaming for higher interaction
-Timing: Publish News content for quick trending; Education for long-term growth
-Tagging: Use simple, descriptive tags like "funny", "2018", category-specific keywords
-Regional Targeting: Tailor content to regional preferences (e.g., Music for GB/US)
-Optimal Period: Aim for spring/summer releases for peak performance
-Engagement Tactics: Include giveaways, challenges, or interactive elements
+1. Category Selection: Focus on Music or Entertainment for maximum views
+2. Engagement Strategy: Target Howto & Style or Gaming for higher interaction
+3. Timing: Publish News content for quick trending; Education for long-term growth
+4. Tagging: Use simple, descriptive tags like "funny", "2018", category-specific keywords
+5. Regional Targeting: Tailor content to regional preferences (e.g., Music for GB/US)
+6. Optimal Period: Aim for spring/summer releases for peak performance
+7. Engagement Tactics: Include giveaways, challenges, or interactive elements
 
-📝 Limitations
+## 📝 Limitations
 
 Data covers only November 2017 to June 2018
 Limited to 10 countries
@@ -238,16 +238,18 @@ Does not include video content analysis (thumbnails, audio, etc.)
 Comment sentiment data not available
 Algorithm changes since 2018 may affect current applicability
 
-👨‍💻 Author
+## 👨‍💻 Author
 Poorva Pathak
 
 Date: 20 September 2025
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 
-Dataset provided by Kaggle
-Built with Python, Pandas, Matplotlib, and Seaborn
-Inspired by the need to understand global content virality patterns
+Dataset provided by Kaggle.
+
+Built with Python, Pandas, Matplotlib, and Seaborn.
+
+Inspired by the need to understand global content virality patterns.
 
 
-⭐ If you find this project useful, please consider giving it a star!
+### ⭐ If you find this project useful, please consider giving it a star!
