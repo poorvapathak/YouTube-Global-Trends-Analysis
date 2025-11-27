@@ -1,4 +1,5 @@
 YouTube Global Trends Analysis 📊
+
 A comprehensive data analysis project examining YouTube trending videos across 10 countries to uncover patterns in views, likes, categories, and engagement metrics. This analysis combines datasets from multiple regions to understand what makes videos go viral globally.
 
 📋 Table of Contents
@@ -239,6 +240,7 @@ Algorithm changes since 2018 may affect current applicability
 
 👨‍💻 Author
 Poorva Pathak
+
 Date: 20 September 2025
 
 🙏 Acknowledgments
