@@ -70,7 +70,7 @@ git clone https://github.com/poorvapathak/YouTube-Global-Trends-Analysis.git
 cd YouTube-Global-Trends-Analysis
 ```
 
-# Run the Jupyter notebook
+#### Run the Jupyter notebook
 ```
 jupyter notebook YouTube_Global_Trends_Analysis.ipynb
 ```
